@@ -1,6 +1,7 @@
-* Här är olika användare som är sparade
+* Stores diffrent kind of users
 *
 *
+*   Rows with * in the beginning is ignored in read
 
 #
 Sex="Man"

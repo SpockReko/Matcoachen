@@ -1,18 +1,15 @@
-* Denna filen är menat att fylla i näringsvärden för varje råvara från RDI värdena.
-* Resterande näringsvärdena är onödiga.
+* This file will store the Foods values from livsmedeldatabasen.
+* We have only taken what is defined in the RDI
 *
-
-* tecknet * är kommenter och ignorerar denna raden.
-* mönster
+*   Rows with * in the beginning is ignored in read
 #
-namn=potatis
-gram=100
-kcal=78,6
-kJ=328,8
-kolhydrater=16,40
-fiber=2,09
-protein=1,74
-fett=0,10
+Name=potatis
+Gram=100
+Kcal=78,6
+Fat=0,10
+Carb=16,40
+Fiber=2,09
+Protein=1,74
 Vit A RE=0,6
 Vit D µg=0
 Vit E TE=0,07
@@ -27,7 +24,7 @@ Kalcium mg=4,4
 Fosfor mg=43,1
 Kalium g=378,5
 Magnesium mg=21,8
-Järn mg=0,4
+Jarn mg=0,4
 Zink mg=0,220
 Koppar mg=0.1
 Jod µg=0,2

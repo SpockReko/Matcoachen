@@ -3,7 +3,8 @@
 * Kcal, Fat, Carb, Fiber, Protein is for everyday
 * The rest is for eachday over time. So the medium. Os it should count each week.
 *
-*
+*   Rows with * in the beginning is ignored in read
+#
 Sex=Man
 Age=31-60
 Active=low
@@ -26,8 +27,9 @@ Kalcium mg=800
 Fosfor mg=600
 Kalium g=3,5
 Magnesium mg=350
-Järn mg=9
+Jarn mg=9
 Zink mg=9
 Koppar mg=0.9
 Jod µg=150
 Selen µg=60
+#

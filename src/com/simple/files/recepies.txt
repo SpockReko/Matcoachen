@@ -1,18 +1,17 @@
-**Denna filen är gjord att hålla recept information så som
-*titel, portion, råvaror och tillagning sätt.
+** This file is done to keep recipe information like,
+** Title, servings, ingredients och instructions.
 
-*   Mönster
-*   Kommentar är *
+*   Rows with * in the beginning is ignored in read
 #
-Titel="Test pannkaka med sylt"
-Port="4"
-AntalIngredienser="7"
-Ingredienser="mjöl,500" (namn,gram)
-Ingredienser="ägg,80"
-Ingredienser="mjölk,500"
-Ingredienser="smör,30"
-Ingredienser="salt,2"
-Ingredienser="hallon,100"
-Ingredienser="socker,50"
-Beskrivning="1.Här skriver vi en lång sträng som beskriver tillagningen. 2. i olika steg också."
+Title="Test pannkaka med sylt"
+Servings="4"
+NumberOfIngredients="7"
+Ingredients="mjöl,500" (namn,gram)
+Ingredients="ägg,80"
+Ingredients="mjölk,500"
+Ingredients="smör,30"
+Ingredients="salt,2"
+Ingredients="hallon,100"
+Ingredients="socker,50"
+Instructions="1.Här skriver vi en lång sträng som beskriver tillagningen. 2. i olika steg också."
 #
