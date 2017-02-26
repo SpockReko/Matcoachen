@@ -1,4 +1,33 @@
+* Here the daily recommended nutrients intake is saved
+*
+* Kcal, Fat, Carb, Fiber, Protein is for everyday
+* The rest is for eachday over time. So the medium. Os it should count each week.
 *
 *
-*
-*
+Sex=Man
+Age=31-60
+Active=low
+Kcal=2300
+Fat=10-20
+Carb=45-60
+Fiber=25-35
+Protein=10-20
+Vit A RE=600
+Vit D µg=10
+Vit E TE=10
+Tiamin mg=1,3
+Riboflavin mg=1,5
+Niacin NE=18
+Vit B6 mg=1,5
+Folsyra µg=300
+Vit B12 µg=2
+Vit C mg=75
+Kalcium mg=800
+Fosfor mg=600
+Kalium g=3,5
+Magnesium mg=350
+Järn mg=9
+Zink mg=9
+Koppar mg=0.9
+Jod µg=150
+Selen µg=60
