@@ -1,0 +1,3 @@
+** Denna filen är gjord att hålla recept information så som
+titel, portion, råvaror och tillagning sätt.
+

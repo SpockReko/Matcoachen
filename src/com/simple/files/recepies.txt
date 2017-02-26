@@ -1,0 +1,18 @@
+**Denna filen är gjord att hålla recept information så som
+*titel, portion, råvaror och tillagning sätt.
+
+*   Mönster
+*   Kommentar är *
+#
+Titel="Test pannkaka med sylt"
+Port="4"
+AntalIngredienser="7"
+Ingredienser="mjöl,500" (namn,gram)
+Ingredienser="ägg,80"
+Ingredienser="mjölk,500"
+Ingredienser="smör,30"
+Ingredienser="salt,2"
+Ingredienser="hallon,100"
+Ingredienser="socker,50"
+Beskrivning="1.Här skriver vi en lång sträng som beskriver tillagningen. 2. i olika steg också."
+#

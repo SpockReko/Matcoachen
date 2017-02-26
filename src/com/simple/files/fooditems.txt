@@ -1,0 +1,35 @@
+* Denna filen är menat att fylla i näringsvärden för varje råvara från RDI värdena.
+* Resterande näringsvärdena är onödiga.
+*
+
+* tecknet * är kommenter och ignorerar denna raden.
+* mönster
+#
+namn=potatis
+gram=100
+kcal=78,6
+kJ=328,8
+kolhydrater=16,40
+fiber=2,09
+protein=1,74
+fett=0,10
+Vit A RE=0,6
+Vit D µg=0
+Vit E TE=0,07
+Tiamin mg=0,06
+Riboflavin mg=0,030
+Niacin NE=2,01
+Vit B6 mg=0,21
+Folsyra µg=19,1
+Vit B12 µg=0
+Vit C mg=23,6
+Kalcium mg=4,4
+Fosfor mg=43,1
+Kalium g=378,5
+Magnesium mg=21,8
+Järn mg=0,4
+Zink mg=0,220
+Koppar mg=0.1
+Jod µg=0,2
+Selen µg=0,05
+#
