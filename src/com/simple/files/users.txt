@@ -7,5 +7,5 @@ Sex="Man"
 Age="30"
 Weight="102"
 Length="191"
-RDI=Man30
+RDI=Man-31-60-low
 #

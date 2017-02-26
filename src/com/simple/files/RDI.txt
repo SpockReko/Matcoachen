@@ -1,4 +1,4 @@
-* Here the daily recommended nutrients intake is saved
+* The recommended daily intake is saved here
 *
 * Kcal, Fat, Carb, Fiber, Protein is for everyday
 * The rest is for eachday over time. So the medium. Os it should count each week.
